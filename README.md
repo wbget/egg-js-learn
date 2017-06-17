@@ -2,4 +2,4 @@
 
 learn [ **egg.js** ](https://eggjs.org)  
 
-_官方的教程，有一定node，koa基础后看，会比较容易。_  
+_官方的教程，有一定node，koa基础后看，会比较容易。_  
